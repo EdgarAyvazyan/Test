@@ -1,7 +1,7 @@
 This is the first massage
-<<<<<<< HEAD
+
 correct editing the file
-=======
+
 do some changings
 some changing from master branch
->>>>>>> testing
+testing
